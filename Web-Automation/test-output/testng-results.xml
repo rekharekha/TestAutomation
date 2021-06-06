@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96571" started-at="2021-06-02T18:25:04 IST" finished-at="2021-06-02T18:26:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96571" started-at="2021-06-02T18:25:04 IST" finished-at="2021-06-02T18:26:41 IST">
+      <class name="com.sgtesting.testassignments.Assignment1">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.testassignments.Assignment1@4b1c1ea0]" name="launchBrowser" duration-ms="25930" started-at="2021-06-02T18:25:04 IST" finished-at="2021-06-02T18:25:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.testassignments.Assignment1@4b1c1ea0]" name="navigate" duration-ms="30041" started-at="2021-06-02T18:25:30 IST" finished-at="2021-06-02T18:26:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgtesting.testassignments.Assignment1@4b1c1ea0]" name="login" duration-ms="11699" started-at="2021-06-02T18:26:00 IST" finished-at="2021-06-02T18:26:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.testassignments.Assignment1@4b1c1ea0]" name="minimizeFlyOutWindow" duration-ms="23793" started-at="2021-06-02T18:26:12 IST" finished-at="2021-06-02T18:26:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createUser()[pri:5, instance:com.sgtesting.testassignments.Assignment1@4b1c1ea0]" name="createUser" duration-ms="1519" started-at="2021-06-02T18:26:36 IST" finished-at="2021-06-02T18:26:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="deleteUser()[pri:6, instance:com.sgtesting.testassignments.Assignment1@4b1c1ea0]" name="deleteUser" duration-ms="47" started-at="2021-06-02T18:26:37 IST" finished-at="2021-06-02T18:26:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="logout()[pri:7, instance:com.sgtesting.testassignments.Assignment1@4b1c1ea0]" name="logout" duration-ms="1188" started-at="2021-06-02T18:26:37 IST" finished-at="2021-06-02T18:26:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:8, instance:com.sgtesting.testassignments.Assignment1@4b1c1ea0]" name="closeApplication" duration-ms="2178" started-at="2021-06-02T18:26:38 IST" finished-at="2021-06-02T18:26:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.testassignments.Assignment1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
